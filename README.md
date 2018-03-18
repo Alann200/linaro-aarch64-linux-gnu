@@ -1,2 +1,5 @@
-# linaro-aarch64-limux-gnu
-Copy of linaro toolchain
+# linaro-aarch64-linux-gnu
+> Info:
+   *Copy of linaro toolchain
+   ```Created for personal yse!```
+
